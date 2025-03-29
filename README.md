@@ -1,5 +1,5 @@
 # Colemak_Keyboard_Layout_ES
-This is an installer for the Colemak Keyboard Layout with the ES layout symbols developped by Martí Gibert Roca using Microsoft Keyboard Layout Creator 1.4.
+This is an installer for the Colemak Keyboard Layout with the ES layout symbols developped by minusmagis using Microsoft Keyboard Layout Creator 1.4.
 
 One can choose between two versions, their only difference is that on the Backspace Capslock the Caps Lock or as it is known in spanish "Bloq Mayús" is mapped to the backspace so that one can erase with any hand depending on the situation. Personally I have adopted this keyboard rather quickly and easily because of how convinient it is to erase with your left pinky.
 
